@@ -3,7 +3,7 @@
 #Introdução
 Este projeto tem como objetivo analisar os dados do serviço de assinaturas da Petlove, com o propósito de entender o desempenho do serviço, identificar tendências e sugerir melhorias para reduzir o churn e aumentar a receita. A análise foi realizada utilizando a ferramenta Power BI e as informações são baseadas nos dados disponíveis entre fevereiro de 2016 e fevereiro de 2021.
 
-#Visão Geral dos Dados
+#Visão Geral dos Dados#
 O conjunto de dados utilizado nesta análise contém informações sobre os clientes do serviço de assinaturas da Petlove. Algumas das principais colunas incluídas são: id do cliente, data de assinatura, status da assinatura (ativo ou cancelado), receita por transação, canal de marketing, entre outros.
 
 #Principais Métricas Analisadas
